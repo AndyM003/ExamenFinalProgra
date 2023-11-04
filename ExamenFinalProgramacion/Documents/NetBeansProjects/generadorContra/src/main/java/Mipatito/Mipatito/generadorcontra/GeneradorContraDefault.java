@@ -3,7 +3,7 @@
  *
  * @author dell
  */
-package com.mycompany.generadorcontra;
+package com.mycompany.Mipatitogeneradorcontra;
 
 import java.security.SecureRandom;
 
